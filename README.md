@@ -7,6 +7,6 @@ I struggled coming up with how to build this project at first. Orignally, I was 
 
 Uploading the data ended up being easier than I expected and I had few issues. The most signifcant was that I need to split the guests name by first and last so that the split method used to split up the data worked correctly.
 
-I had the most diffculty with the sort method. 
+I had the most diffculty with the sort method. Mainly with indexing errors but was able to get it to work for the most part. 
 
 
